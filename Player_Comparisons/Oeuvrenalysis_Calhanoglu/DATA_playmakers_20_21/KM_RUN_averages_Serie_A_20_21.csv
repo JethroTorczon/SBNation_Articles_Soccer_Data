@@ -1,0 +1,595 @@
+Serie_A_rank,Team,Player,KM_RUN_avg,Total_minutes
+1,[INTER] ,Marcelo Brozovic ,11.929,2725
+2,[PARMA] ,Mark Kosznovszky ,11.794,91
+3,[SAMPDORIA] ,Morten Thorsby ,11.726,2805
+4,[CAGLIARI] ,Marko Rog ,11.555,1229
+5,[SPEZIA] ,Elio Capradossi ,11.504,96
+6,[INTER] ,Nicolo' Barella ,11.447,3067
+7,[LAZIO] ,Sergej Milinkovic-Savic ,11.432,2899
+8,[MILAN] ,Frank Kessie ,11.326,3428
+9,[GENOA] ,Milan Badelj ,11.315,2543
+10,[NAPOLI] ,Diego Demme ,11.297,1679
+11,[NAPOLI] ,Fabian Ruiz ,11.261,2702
+12,[UDINESE] ,Roberto Pereyra ,11.184,3078
+13,,Mamadou Coulibaly ,11.145,201
+14,[PARMA] ,Jasmin Kurtic ,11.121,2899
+15,[SPEZIA] ,Matteo Ricci ,11.085,2376
+16,[ATALANTA] ,Remo Freuler ,11.083,2843
+17,[SASSUOLO] ,Manuel Locatelli ,11.048,3070
+18,[LAZIO] ,Francesco Acerbi ,10.986,2997
+19,[NAPOLI] ,Giovanni Di Lorenzo ,10.972,3451
+20,[CAGLIARI] ,Nahitan Nandez ,10.951,2911
+21,[ATALANTA] ,Marten De Roon ,10.932,3188
+22,[BOLOGNA] ,Roberto Soriano ,10.93,3443
+23,[HELLAS VERONA] ,Antonin Barak ,10.92,2922
+24,[CROTONE] ,Junior Messias ,10.899,3395
+25,[PARMA] ,Juraj Kucka ,10.841,2464
+26,[FIORENTINA] ,Sofyan Amrabat ,10.811,2597
+27,[HELLAS VERONA] ,Davide Faraoni ,10.796,3064
+28,[INTER] ,Milan Skriniar ,10.79,2941
+29,[UDINESE] ,Rodrigo De Paul ,10.674,3401
+30,[TORINO] ,Rolando Mandragora ,10.653,2061
+31,[GENOA] ,Nicolo' Rovella ,10.653,1263
+32,[CAGLIARI] ,Razvan Marin ,10.636,3118
+33,[ROMA] ,Henrikh Mkhitaryan ,10.635,2901
+34,[NAPOLI] ,Lorenzo Insigne ,10.584,3018
+35,[ROMA] ,Lorenzo Pellegrini ,10.569,2735
+36,[JUVENTUS] ,Adrien Rabiot ,10.563,2469
+37,[CAGLIARI] ,Diego Godin ,10.56,2677
+38,[JUVENTUS] ,Rodrigo Bentancur ,10.559,2466
+39,[INTER] ,Alessandro Bastoni ,10.559,3085
+40,[CAGLIARI] ,Sebastian Walukiewicz ,10.534,1717
+41,[INTER] ,Stefan De Vrij ,10.501,2907
+42,[SAMPDORIA] ,Albin Ekdal ,10.459,2425
+43,[ATALANTA] ,Rafael Toloi ,10.446,2673
+44,[LAZIO] ,Ciro Immobile ,10.434,3000
+45,[MILAN] ,Matteo Gabbia ,10.432,602
+46,[PARMA] ,Bruno Alves ,10.43,1732
+47,[CAGLIARI] ,Joao Pedro ,10.412,3448
+48,[SPEZIA] ,Lucien Agoume ,10.406,854
+49,[TORINO] ,Bremer ,10.375,3148
+50,[CROTONE] ,Ahmad Benali ,10.357,1280
+51,[BENEVENTO] ,Artur Ionita ,10.353,2972
+52,[SASSUOLO] ,Gian Marco Ferrari ,10.333,3216
+53,[BOLOGNA] ,Takehiro Tomiyasu ,10.331,2866
+54,[ROMA] ,Gianluca Mancini ,10.321,3023
+55,[JUVENTUS] ,Alex Sandro ,10.315,1966
+56,[SAMPDORIA] ,Alex Ferrari ,10.303,936
+57,[CROTONE] ,Vladimir Golemic ,10.281,2482
+58,[NAPOLI] ,Nikola Maksimovic ,10.28,1282
+59,[ATALANTA] ,Hans Hateboer ,10.277,1843
+60,[LAZIO] ,Stefan Radu ,10.271,2590
+61,,Andrea Danzi ,10.261,111
+62,[MILAN] ,Hakan Calhanoglu ,10.249,2740
+63,[INTER] ,Aleksandar Kolarov ,10.244,420
+64,[CAGLIARI] ,Daniele Rugani ,10.223,1079
+65,[ATALANTA] ,Berat Djimsiti ,10.218,2759
+66,[MILAN] ,Davide Calabria ,10.213,2815
+67,[NAPOLI] ,Amir Rrahmani ,10.212,1162
+68,[FIORENTINA] ,Erick Pulgar ,10.205,2147
+69,[BENEVENTO] ,Federico Barba ,10.2,2831
+70,[JUVENTUS] ,Giorgio Chiellini ,10.199,1473
+71,[GENOA] ,Davide Zappacosta ,10.196,2154
+72,[MILAN] ,Theo Hernandez ,10.195,3131
+73,[PARMA] ,Mattia Bani ,10.188,2188
+74,[SAMPDORIA] ,Bartosz Bereszynski ,10.182,2755
+75,[BENEVENTO] ,Pasquale Schiattarella ,10.182,2393
+76,[JUVENTUS] ,Matthijs De Ligt ,10.178,2362
+77,[CROTONE] ,Arkadiusz Reca ,10.172,2450
+78,,Hidde Ter Avest ,10.164,379
+79,[SAMPDORIA] ,Tommaso Augello ,10.161,3382
+80,,Lukas Lerager ,10.14,1233
+81,[FIORENTINA] ,Dusan Vlahovic ,10.134,3090
+82,[TORINO] ,Armando Izzo ,10.121,2131
+83,[LAZIO] ,Adam Marusic ,10.12,3150
+84,[LAZIO] ,Manuel Lazzari ,10.116,2769
+85,[CROTONE] ,Sebastiano Luperto ,10.115,1980
+86,[ROMA] ,Ebrima Darboe ,10.11,339
+87,[BENEVENTO] ,Perparim Hetemaj ,10.11,2364
+88,[NAPOLI] ,Piotr Zielinski ,10.108,2638
+89,[TORINO] ,Tomas Rincon ,10.094,3011
+90,[UDINESE] ,Jens Stryger Larsen ,10.063,2779
+91,,Kastriot Dermaku ,10.059,108
+92,[SAMPDORIA] ,Antonio Candreva ,10.047,2623
+93,[CAGLIARI] ,Andrea Carboni ,10.041,1152
+94,[MILAN] ,Alessio Romagnoli ,10.033,2039
+95,[SPEZIA] ,Luca Vignali ,10.019,1682
+96,[NAPOLI] ,Tiemoue' Bakayoko ,10.015,2089
+97,[INTER] ,Achraf Hakimi ,10.012,2813
+98,[CROTONE] ,Koffi Djidji ,10.009,1614
+99,[UDINESE] ,Bram Nuytinck ,10.007,1749
+100,[ATALANTA] ,Robin Gosens ,9.995,2637
+101,[ROMA] ,Bryan Cristante ,9.957,2297
+102,[ATALANTA] ,Matteo Pessina ,9.935,1716
+103,[JUVENTUS] ,Merih Demiral ,9.932,1015
+104,[CROTONE] ,Niccolo' Zanellato ,9.913,1718
+105,[BOLOGNA] ,Jerdy Schouten ,9.906,2642
+106,[PARMA] ,Yordan Osorio ,9.905,1920
+107,[MILAN] ,Fikayo Tomori ,9.898,1551
+108,[FIORENTINA] ,German Pezzella ,9.896,2916
+109,[BOLOGNA] ,Larangeira Danilo ,9.895,3320
+110,[CROTONE] ,Luca Marrone ,9.895,1681
+111,[CAGLIARI] ,Radja Nainggolan ,9.893,2014
+112,[ROMA] ,Roger Ibanez ,9.886,2538
+113,[BOLOGNA] ,Musa Barrow ,9.885,3061
+114,[BENEVENTO] ,Kamil Glik ,9.883,3419
+115,[ATALANTA] ,Joakim Maehle ,9.868,1288
+116,[FIORENTINA] ,Nikola Milenkovic ,9.866,3235
+117,[CROTONE] ,Lisandro Magallan ,9.864,2316
+118,[PARMA] ,Giuseppe Pezzella ,9.861,1920
+119,[JUVENTUS] ,Danilo ,9.834,3095
+120,[SPEZIA] ,Nahuel Estevez ,9.831,1867
+121,[BENEVENTO] ,Riccardo Improta ,9.827,2490
+122,[INTER] ,Andrea Ranocchia ,9.826,731
+123,[FIORENTINA] ,Lucas Martinez Quarta ,9.818,1582
+124,[CROTONE] ,Salvatore Molina ,9.817,2440
+125,[HELLAS VERONA] ,Adrien Tameze ,9.81,2433
+126,[GENOA] ,Andrea Masiello ,9.807,2703
+127,[UDINESE] ,Rodrigo Becao ,9.799,2956
+128,[UDINESE] ,Walace ,9.795,2177
+129,[SAMPDORIA] ,Omar Colley ,9.794,2744
+130,[HELLAS VERONA] ,Darko Lazovic ,9.778,2660
+131,[NAPOLI] ,Kalidou Koulibaly ,9.767,2351
+132,[SAMPDORIA] ,Jakub Jankto ,9.761,2517
+133,[UDINESE] ,Kevin Bonifazi ,9.759,2609
+134,[SPEZIA] ,Martin Erlic ,9.759,1941
+135,[GENOA] ,Kevin Strootman ,9.755,1356
+136,[PARMA] ,Andrea Conti ,9.752,892
+137,[SPEZIA] ,M'Bala Nzola ,9.742,2007
+138,[ROMA] ,Leonardo Spinazzola ,9.739,2249
+139,[ROMA] ,Jordan Veretout ,9.734,2160
+140,[NAPOLI] ,Elseid Hysaj ,9.732,1876
+141,[UDINESE] ,Nahuel Molina ,9.73,1962
+142,[CAGLIARI] ,Charalampos Lykogiannis ,9.695,2542
+143,[TORINO] ,Lyanco ,9.688,2102
+144,[FIORENTINA] ,Cristiano Biraghi ,9.687,2979
+145,[JUVENTUS] ,Juan Cuadrado ,9.666,2308
+146,[MILAN] ,Simon Kjaer ,9.662,2538
+147,[BOLOGNA] ,Lorenzo De Silvestri ,9.657,2268
+148,[CROTONE] ,Pedro Pereira ,9.642,2673
+149,[ROMA] ,Rick Karsdorp ,9.628,2685
+150,[LAZIO] ,Luis Alberto ,9.621,2742
+151,[BOLOGNA] ,Adama Soumaoro ,9.603,1854
+152,[HELLAS VERONA] ,Mert Cetin ,9.594,453
+153,[HELLAS VERONA] ,Ivan Ilic ,9.593,1943
+154,[GENOA] ,Miha Zajc ,9.588,1953
+155,[GENOA] ,Domenico Criscito ,9.58,1831
+156,[HELLAS VERONA] ,Miguel Veloso ,9.574,1404
+157,[SPEZIA] ,Claudio Terzi ,9.553,1984
+158,[JUVENTUS] ,Dejan Kulusevski ,9.553,2034
+159,[SPEZIA] ,Emmanuel Gyasi ,9.547,3034
+160,[TORINO] ,Sasa Lukic ,9.544,2260
+161,[CROTONE] ,Simy ,9.531,3111
+162,[SASSUOLO] ,Maxime Lopez ,9.53,1969
+163,[HELLAS VERONA] ,Ronaldo Vieira ,9.526,249
+164,[BENEVENTO] ,Fabio Depaoli ,9.519,1470
+165,[SPEZIA] ,Ardian Ismajli ,9.515,1382
+166,[GENOA] ,Edoardo Goldaniga ,9.505,1977
+167,[TORINO] ,Alessandro Buongiorno ,9.505,914
+168,[SASSUOLO] ,Rogerio ,9.504,2003
+169,[BOLOGNA] ,Rodrigo Palacio ,9.502,2625
+170,[CAGLIARI] ,Gabriele Zappa ,9.501,2529
+171,[LAZIO] ,Gil Patric ,9.481,1700
+172,[ROMA] ,Chris Smalling ,9.472,1180
+173,[NAPOLI] ,Mario Rui ,9.463,1792
+174,[PARMA] ,Andreas Cornelius ,9.461,2016
+175,[ATALANTA] ,Jose' Palomino ,9.457,2587
+176,[ROMA] ,Gonzalo Villar ,9.442,1965
+177,[PARMA] ,Hernani ,9.44,2300
+178,[UDINESE] ,Samir ,9.439,2360
+179,[PARMA] ,Simone Iacoponi ,9.437,1277
+180,[BENEVENTO] ,Luca Caldirola ,9.432,1691
+181,[BENEVENTO] ,Nicolas Viola ,9.43,1105
+182,[HELLAS VERONA] ,Federico Dimarco ,9.422,2771
+183,[SPEZIA] ,Juan Ramos ,9.417,333
+184,[FIORENTINA] ,Martin Caceres ,9.408,2376
+185,[SASSUOLO] ,Domenico Berardi ,9.402,2620
+186,[LAZIO] ,Joaquin Correa ,9.388,2036
+187,[PARMA] ,Riccardo Gagliolo ,9.384,2083
+188,[SAMPDORIA] ,Adrien Silva ,9.381,1673
+189,[TORINO] ,Cristian Ansaldi ,9.378,2099
+190,[SPEZIA] ,Salva Ferrer ,9.375,1271
+191,[CAGLIARI] ,Luca Ceppitelli ,9.368,1551
+192,[TORINO] ,Karol Linetty ,9.361,1950
+193,[PARMA] ,Gaston Brugman ,9.353,1701
+194,[ROMA] ,Federico Fazio ,9.353,430
+195,[HELLAS VERONA] ,Federico Ceccherini ,9.348,2124
+196,[CROTONE] ,Giuseppe Cuomo ,9.342,842
+197,[GENOA] ,Ivan Radovanovic ,9.335,2359
+198,[SASSUOLO] ,Vlad Chiriches ,9.324,1940
+199,[SAMPDORIA] ,Lorenzo Tonelli ,9.316,1882
+200,[SPEZIA] ,Riccardo Marchizza ,9.313,1661
+201,[SASSUOLO] ,Marlon ,9.311,1857
+202,[SAMPDORIA] ,Maya Yoshida ,9.292,2412
+203,[TORINO] ,Nicolas Nkoulou ,9.286,1472
+204,[JUVENTUS] ,Alvaro Morata ,9.266,2140
+205,[NAPOLI] ,Kostas Manolas ,9.261,2451
+206,[FIORENTINA] ,Gaetano Castrovilli ,9.26,2449
+207,[INTER] ,Romelu Lukaku ,9.255,3055
+208,[GENOA] ,Cristian Zapata ,9.242,1028
+209,[SPEZIA] ,Giulio Maggiore ,9.226,2335
+210,[GENOA] ,Lennart Czyborra ,9.221,1235
+211,[JUVENTUS] ,Gianluca Frabotta ,9.219,743
+212,[TORINO] ,Wilfried Stephane Singo ,9.205,2008
+213,[SPEZIA] ,Julian Chabot ,9.187,1776
+214,[CROTONE] ,Adam Ounas ,9.167,1582
+215,[FIORENTINA] ,Maximiliano Olivera ,9.166,95
+216,[JUVENTUS] ,Federico Chiesa ,9.164,2565
+217,[HELLAS VERONA] ,Pawel Dawidowicz ,9.159,1970
+218,[JUVENTUS] ,Cristiano Ronaldo ,9.149,2973
+219,[JUVENTUS] ,Leonardo Bonucci ,9.14,2142
+220,[SASSUOLO] ,Filip Djuricic ,9.137,2190
+221,[LAZIO] ,Wesley Hoedt ,9.12,1034
+222,[ATALANTA] ,Cristian Romero ,9.109,2682
+223,[SASSUOLO] ,Georgios Kyriakopoulos ,9.109,1559
+224,[FIORENTINA] ,Giacomo Bonaventura ,9.1,2364
+225,[FIORENTINA] ,Franck Ribery ,9.093,2230
+226,[CAGLIARI] ,Ragnar Klavan ,9.085,833
+227,[GENOA] ,Davide Biraschi ,9.071,960
+228,[BOLOGNA] ,Aaron Hickey ,9.067,804
+229,[JUVENTUS] ,Arthur ,9.044,1228
+230,[ROMA] ,Marash Kumbulla ,9.03,1446
+231,[TORINO] ,Andrea Belotti ,9.029,3073
+232,[INTER] ,Matias Vecino ,9.029,303
+233,[INTER] ,Danilo D'Ambrosio ,9.023,767
+234,[MILAN] ,Diogo Dalot ,9.022,1169
+235,[SPEZIA] ,Simone Bastoni ,8.998,1599
+236,[NAPOLI] ,Victor Osimhen ,8.986,1664
+237,[ROMA] ,Edin Dzeko ,8.982,1930
+238,[JUVENTUS] ,Weston Mckennie ,8.981,1814
+239,[BENEVENTO] ,Gaetano Letizia ,8.953,1684
+240,[INTER] ,Lautaro Martinez ,8.952,2686
+241,[TORINO] ,Ricardo Rodriguez ,8.947,1312
+242,[MILAN] ,Alexis Saelemaekers ,8.941,2108
+243,[PARMA] ,Daan Dierckx ,8.92,502
+244,[INTER] ,Christian Eriksen ,8.92,1449
+245,[HELLAS VERONA] ,Kevin Lasagna ,8.901,2532
+246,[BOLOGNA] ,Mitchell Dijks ,8.901,1544
+247,[HELLAS VERONA] ,Koray Gunter ,8.899,1876
+248,[UDINESE] ,Marvin Zeegelaar ,8.883,1824
+249,[TORINO] ,Mergim Vojvoda ,8.882,1449
+250,[HELLAS VERONA] ,Mattia Zaccagni ,8.867,2734
+251,[SASSUOLO] ,Jeremie Boga ,8.851,1878
+252,[JUVENTUS] ,Paulo Dybala ,8.848,1194
+253,[TORINO] ,Antonio Sanabria ,8.841,1028
+254,[PARMA] ,Simon Sohm ,8.822,958
+255,[SPEZIA] ,Tommaso Pobega ,8.81,1293
+256,[PARMA] ,Maxime Busi ,8.806,1286
+257,[ROMA] ,Stephan El Shaarawy ,8.796,610
+258,[PARMA] ,Alberto Grassi ,8.773,1254
+259,,Paolo Bartolomei ,8.771,350
+260,[LAZIO] ,Lucas Leiva ,8.765,2211
+261,[CAGLIARI] ,Alfred Duncan ,8.763,1329
+262,[MILAN] ,Sandro Tonali ,8.755,1421
+263,[INTER] ,Ivan Perisic ,8.754,1891
+264,[PARMA] ,Vincent Laurini ,8.748,931
+265,[PARMA] ,Botond Balogh ,8.744,175
+266,[MILAN] ,Ismael Bennacer ,8.743,1395
+267,[FIORENTINA] ,Lorenzo Venuti ,8.721,1861
+268,[LAZIO] ,Luiz Felipe ,8.719,970
+269,[BENEVENTO] ,Gianluca Lapadula ,8.696,2699
+270,[CAGLIARI] ,Leonardo Pavoletti ,8.691,1711
+271,[HELLAS VERONA] ,Stefano Sturaro ,8.687,924
+272,[MILAN] ,Ante Rebic ,8.672,1889
+273,[ROMA] ,Pedro ,8.67,1679
+274,[UDINESE] ,Sebastian De Maio ,8.644,926
+275,,Christian Oliva ,8.626,424
+276,[INTER] ,Roberto Gagliardini ,8.612,1314
+277,[SAMPDORIA] ,Fabio Quagliarella ,8.612,2305
+278,[CROTONE] ,Eduardo Henrique ,8.609,975
+279,[FIORENTINA] ,Igor ,8.608,1247
+280,[BENEVENTO] ,Alessandro Tuia ,8.607,1874
+281,[MILAN] ,Rafael Leao ,8.604,2026
+282,[CROTONE] ,Milos Vulic ,8.601,1389
+283,[UDINESE] ,Stefano Okaka ,8.597,1585
+284,[SASSUOLO] ,Francesco Caputo ,8.57,1822
+285,[JUVENTUS] ,Aaron Ramsey ,8.567,1157
+286,[PARMA] ,Gervinho ,8.563,2126
+287,[MILAN] ,Pierre Kalulu ,8.547,780
+288,,Alejandro Berenguer ,8.534,137
+289,[SASSUOLO] ,Federico Peluso ,8.446,241
+290,[SASSUOLO] ,Pedro Obiang ,8.423,1592
+291,[ROMA] ,Borja Mayoral ,8.42,1644
+292,[PARMA] ,Dennis Man ,8.415,756
+293,[UDINESE] ,Tolgay Arslan ,8.411,1904
+294,[SASSUOLO] ,Jeremy Toljan ,8.405,1589
+295,[INTER] ,Ashley Young ,8.403,1500
+296,[GENOA] ,Mattia Destro ,8.378,1684
+297,[CROTONE] ,Jacopo Petriccione ,8.372,1013
+298,[HELLAS VERONA] ,Matteo Lovato ,8.371,1477
+299,[NAPOLI] ,Hirving Lozano ,8.365,2082
+300,[BOLOGNA] ,Paolo Farago' ,8.346,421
+301,[GENOA] ,Paolo Ghiglione ,8.326,1442
+302,[PARMA] ,Yann Karamoh ,8.315,1368
+303,[GENOA] ,Eldor Shomurodov ,8.305,1774
+304,[HELLAS VERONA] ,Giangiacomo Magnani ,8.271,1618
+305,[MILAN] ,Soualiho Meite' ,8.267,1628
+306,[INTER] ,Arturo Vidal ,8.263,1203
+307,[LAZIO] ,Mateo Musacchio ,8.259,283
+308,[ATALANTA] ,Ruslan Malinovskyi ,8.255,1967
+309,,Nehuen Paz ,8.243,385
+310,[SASSUOLO] ,Mert Muldur ,8.241,1769
+311,[INTER] ,Matteo Darmian ,8.238,1454
+312,[UDINESE] ,Ignacio Pussetto ,8.236,796
+313,[CROTONE] ,Luca Cigarini ,8.232,976
+314,[PARMA] ,Graziano Pelle' ,8.225,657
+315,[ROMA] ,Amadou Diawara ,8.213,709
+316,[BOLOGNA] ,Valentin Antov ,8.204,239
+317,[CAGLIARI] ,Giovanni Simeone ,8.157,1847
+318,[MILAN] ,Zlatan Ibrahimovic ,8.154,1582
+319,[FIORENTINA] ,Valentin Eysseric ,8.147,794
+320,,Alan Empereur ,8.142,231
+321,[SAMPDORIA] ,Mikkel Damsgaard ,8.139,1879
+322,[SASSUOLO] ,Hamed Junior Traore ,8.137,1893
+323,[NAPOLI] ,Matteo Politano ,8.111,2011
+324,[BENEVENTO] ,Bryan Dabo ,8.057,1210
+325,[SPEZIA] ,Leo Sena ,8.056,936
+326,[LAZIO] ,Mohamed Fares ,8.028,1218
+327,,Alejandro Gomez ,8.022,693
+328,[SASSUOLO] ,Giacomo Raspadori ,8.021,1317
+329,,Fabio Pisacane ,8.021,251
+330,[ATALANTA] ,Mario Pasalic ,8.016,1201
+331,[BOLOGNA] ,Mattias Svanberg ,7.985,1939
+332,[SASSUOLO] ,Kaan Ayhan ,7.946,872
+333,[PARMA] ,Lautaro Valenti ,7.92,543
+334,[GENOA] ,Luca Pellegrini ,7.879,690
+335,[CAGLIARI] ,Alessandro Deiola ,7.873,1050
+336,[BOLOGNA] ,Riccardo Orsolini ,7.867,1856
+337,[BENEVENTO] ,Gianluca Caprari ,7.865,1951
+338,[ROMA] ,Davide Santon ,7.856,613
+339,[ROMA] ,Bruno Peres ,7.746,1532
+340,[SPEZIA] ,Riccardo Saponara ,7.742,481
+341,[ATALANTA] ,Duvan Zapata ,7.729,2461
+342,,Matteo Scozzarella ,7.717,155
+343,[GENOA] ,Gianluca Scamacca ,7.638,1451
+344,[BOLOGNA] ,Ibrahima Mbaye ,7.634,457
+345,[SPEZIA] ,Jacopo Sala ,7.624,403
+346,[NAPOLI] ,Dries Mertens ,7.609,1531
+347,[PARMA] ,Valentin Mihaila ,7.602,758
+348,[ROMA] ,Carles Perez ,7.587,832
+349,[BENEVENTO] ,Roberto Insigne ,7.545,1693
+350,[BOLOGNA] ,Nicola Sansone ,7.537,1251
+351,,Cristiano Piccini ,7.509,61
+352,[BENEVENTO] ,Daam Foulon ,7.497,1092
+353,[TORINO] ,Simone Zaza ,7.478,1619
+354,[HELLAS VERONA] ,Nikola Kalinic ,7.443,1115
+355,[CAGLIARI] ,Riccardo Sottil ,7.443,1247
+356,[FIORENTINA] ,Kevin Malcuit ,7.436,265
+357,[BOLOGNA] ,Nicolas Dominguez ,7.435,1325
+358,[NAPOLI] ,Andrea Petagna ,7.424,1063
+359,[SAMPDORIA] ,Manolo Gabbiadini ,7.417,918
+360,,Johan Mojica ,7.401,329
+361,[BOLOGNA] ,Andreas Skov Olsen ,7.395,1250
+362,[GENOA] ,Goran Pandev ,7.368,1487
+363,[GENOA] ,Jerome Onguene' ,7.345,197
+364,[TORINO] ,Simone Verdi ,7.279,1731
+365,[ATALANTA] ,Josip Ilicic ,7.24,1586
+366,[MILAN] ,Brahim Diaz ,7.239,1317
+367,[ATALANTA] ,Bosko Sutalo ,7.223,248
+368,[UDINESE] ,Gerard Deulofeu ,7.218,635
+369,[JUVENTUS] ,Federico Bernardeschi ,7.182,1068
+370,[BOLOGNA] ,Emanuel Vignato ,7.18,1295
+371,[MILAN] ,Samuel Castillejo ,7.152,1271
+372,[SASSUOLO] ,Francesco Magnanelli ,7.146,471
+373,[BENEVENTO] ,Adolfo Gaich ,7.143,811
+374,[PARMA] ,Wylan Cyprien ,7.13,458
+375,[SPEZIA] ,Diego Farias ,7.126,1612
+376,[INTER] ,Alexis Sanchez ,7.088,1229
+377,[GENOA] ,Filippo Melegoni ,7.072,428
+378,[PARMA] ,Roberto Inglese ,7.06,617
+379,[SPEZIA] ,Andrey Galabinov ,7.059,484
+380,[UDINESE] ,Fernando Llorente ,7.053,815
+381,[BOLOGNA] ,Gary Medel ,7.042,543
+382,[SPEZIA] ,Roberto Piccoli ,7.028,764
+383,,Jacopo Segre ,7.016,229
+384,[GENOA] ,Marko Pjaca ,6.992,1527
+385,[LAZIO] ,Marco Parolo ,6.925,714
+386,[UDINESE] ,Martin Palumbo ,6.918,67
+387,[SASSUOLO] ,Mehdi Bourabia ,6.9,585
+388,[SAMPDORIA] ,Antonino La Gumina ,6.896,368
+389,[SASSUOLO] ,Gregoire Defrel ,6.887,1426
+390,[SPEZIA] ,Kevin Agudelo ,6.863,1455
+391,[CROTONE] ,Samuel Di Carmine ,6.829,1040
+392,[SAMPDORIA] ,Keita ,6.826,1269
+393,[SPEZIA] ,Daniele Verde ,6.789,1048
+394,[TORINO] ,Nicola Murru ,6.785,625
+395,[ROMA] ,Bryan Reynolds ,6.783,297
+396,[SAMPDORIA] ,Vasco Regini ,6.764,92
+397,[HELLAS VERONA] ,Daniel Bessa ,6.731,671
+398,[LAZIO] ,Vedat Muriqi ,6.709,929
+399,,Christian Maggio ,6.703,325
+400,[LAZIO] ,Jean-Daniel Akpa Akpro ,6.604,1175
+401,[ATALANTA] ,Matteo Ruggeri ,6.591,218
+402,[TORINO] ,Federico Bonazzoli ,6.58,781
+403,[MILAN] ,Rade Krunic ,6.567,812
+404,[SAMPDORIA] ,Gaston Ramirez ,6.565,1042
+405,[HELLAS VERONA] ,Andrea Favilli ,6.529,366
+406,[LAZIO] ,Senad Lulic ,6.514,764
+407,,Jacopo Dezi ,6.501,87
+408,,Luca Mora ,6.5,119
+409,[PARMA] ,Juan Brunetta ,6.401,513
+410,[UDINESE] ,Ilija Nestorovski ,6.398,785
+411,[SAMPDORIA] ,Valerio Verre ,6.388,1062
+412,[HELLAS VERONA] ,Eddie Salcedo ,6.353,828
+413,[FIORENTINA] ,Christian Kouame ,6.228,1109
+414,[TORINO] ,Amer Gojak ,6.22,522
+415,[CROTONE] ,Emmanuel Riviere ,6.187,685
+416,[LAZIO] ,Danilo Cataldi ,6.169,640
+417,[SPEZIA] ,Cristian Dell'Orco ,6.156,292
+418,[BENEVENTO] ,Gabriele Moncini ,6.142,387
+419,[UDINESE] ,Thomas Ouwejan ,6.129,462
+420,[CROTONE] ,Andrea Rispoli ,6.113,702
+421,[LAZIO] ,Felipe Caicedo ,6.076,1017
+422,[SPEZIA] ,Gennaro Acampora ,6.036,487
+423,[CAGLIARI] ,Alessandro Tripaldelli ,6.03,328
+424,,Pol Lirola ,6.006,542
+425,[BENEVENTO] ,Marco Sau ,5.988,863
+426,[MILAN] ,Jens Petter Hauge ,5.985,592
+427,[GENOA] ,Valon Behrami ,5.984,957
+428,[ATALANTA] ,Luis Muriel ,5.929,1533
+429,[HELLAS VERONA] ,Ivor Pandur ,5.893,351
+430,[HELLAS VERONA] ,Ebrima Colley ,5.887,811
+431,[BENEVENTO] ,Iago Falque ,5.886,396
+432,[GENOA] ,Francesco Cassata ,5.829,245
+433,[BENEVENTO] ,Lorenzo Montipo' ,5.791,3554
+434,[INTER] ,Stefano Sensi ,5.783,641
+435,[LAZIO] ,Gonzalo Escalante ,5.773,813
+436,[HELLAS VERONA] ,Marco Silvestri ,5.766,3254
+437,[CROTONE] ,Alex Cordaz ,5.753,3429
+438,[NAPOLI] ,Eljif Elmas ,5.743,854
+439,[UDINESE] ,Juan Musso ,5.716,3350
+440,[UDINESE] ,Jean-Victor Makengo ,5.698,572
+441,[BOLOGNA] ,Federico Ravaglia ,5.696,380
+442,[CROTONE] ,Gian Marco Crespi ,5.682,92
+443,[FIORENTINA] ,Borja Valero ,5.639,553
+444,[TORINO] ,Daniele Baselli ,5.622,456
+445,[FIORENTINA] ,Jose' Callejon ,5.552,724
+446,[CAGLIARI] ,Kwadwo Asamoah ,5.483,266
+447,[SPEZIA] ,Jeroen Zoet ,5.474,651
+448,[BOLOGNA] ,Andri Fannar Baldursson ,5.456,234
+449,[NAPOLI] ,Faouzi Ghoulam ,5.417,320
+450,[FIORENTINA] ,Pietro Terracciano ,5.379,287
+451,[MILAN] ,Ciprian Tatarusanu ,5.351,96
+452,[BENEVENTO] ,Nicolo' Manfredini ,5.349,95
+453,[SPEZIA] ,Ivan Provedel ,5.333,2776
+454,[UDINESE] ,Jayden Braaf ,5.326,126
+455,[FIORENTINA] ,Antonio Barreca ,5.296,95
+456,[BENEVENTO] ,Andres Tello ,5.257,468
+457,[ROMA] ,Pau Lopez ,5.256,1940
+458,[GENOA] ,Mattia Perin ,5.241,3044
+459,[ATALANTA] ,Aleksej Miranchuk ,5.22,745
+460,[SAMPDORIA] ,Ernesto Torregrossa ,5.208,184
+461,[SASSUOLO] ,Gianluca Pegolo ,5.202,96
+462,,Stefano Denswil ,5.176,131
+463,[SAMPDORIA] ,Mehdi Leris ,5.142,451
+464,[CAGLIARI] ,Guglielmo Vicario ,5.078,384
+465,[ATALANTA] ,Marco Sportiello ,5.05,1329
+466,[SAMPDORIA] ,Emil Audero ,5.047,3525
+467,[LAZIO] ,Thomas Strakosha ,5.033,867
+468,[LAZIO] ,Pepe Reina ,5.015,2781
+469,[HELLAS VERONA] ,Kevin Ruegg ,5.007,227
+470,,Simone Edera ,5.004,60
+471,[MILAN] ,Gianluigi Donnarumma ,4.988,3550
+472,[TORINO] ,Samir Ujkani ,4.983,95
+473,[CROTONE] ,Antonio Mazzotta ,4.97,60
+474,,Lubomir Tupta ,4.966,55
+475,[CROTONE] ,Marco Festa ,4.966,99
+476,[NAPOLI] ,Alex Meret ,4.965,2111
+477,[GENOA] ,Yayah Kallon ,4.956,51
+478,[CAGLIARI] ,Alessio Cragno ,4.953,3268
+479,[BOLOGNA] ,Andrea Poli ,4.913,433
+480,[ROMA] ,Daniel Fuzato ,4.874,472
+481,[BOLOGNA] ,Angelo Da Costa ,4.873,568
+482,[GENOA] ,Alberto Paleari ,4.853,231
+483,[FIORENTINA] ,Bartlomiej Dragowski ,4.845,3360
+484,[JUVENTUS] ,Gianluigi Buffon ,4.843,759
+485,[UDINESE] ,Fernando Forestieri ,4.801,613
+486,[SASSUOLO] ,Andrea Consigli ,4.799,3553
+487,[UDINESE] ,Simone Scuffet ,4.764,96
+488,[GENOA] ,Manolo Portanova ,4.712,148
+489,[ROMA] ,Juan Jesus ,4.701,170
+490,[PARMA] ,Vasilios Zagaritis ,4.688,68
+491,[BENEVENTO] ,Christian Pastina ,4.668,128
+492,[CROTONE] ,Denis Dragus ,4.664,203
+493,[SPEZIA] ,Rafael ,4.663,224
+494,[HELLAS VERONA] ,Destiny Udogie ,4.647,189
+495,,Fabrizio Caligara ,4.639,213
+496,[BOLOGNA] ,Lukasz Skorupski ,4.624,2673
+497,[ATALANTA] ,Pierluigi Gollini ,4.611,2273
+498,[GENOA] ,Giuseppe Caso ,4.595,60
+499,[LAZIO] ,Andreas Pereira ,4.556,627
+500,[JUVENTUS] ,Wojciech Szczesny ,4.553,2853
+501,[SAMPDORIA] ,Karlo Letica ,4.552,91
+502,[PARMA] ,Luigi Sepe ,4.551,3445
+503,[TORINO] ,Salvatore Sirigu ,4.532,3096
+504,[NAPOLI] ,David Ospina ,4.532,1529
+505,[INTER] ,Andrea Pinamonti ,4.523,184
+506,,Nicolas ,4.494,193
+507,,Giacomo Ricci ,4.481,75
+508,[UDINESE] ,Mato Jajalo ,4.47,37
+509,[ROMA] ,Riccardo Calafiori ,4.464,71
+510,[TORINO] ,Vanja Milinkovic-Savic ,4.439,481
+511,[BENEVENTO] ,Giuseppe Di Serio ,4.407,350
+512,,Lorenzo Colombo ,4.343,111
+513,[INTER] ,Samir Handanovic ,4.289,3436
+514,[PARMA] ,Simone Colombi ,4.287,191
+515,[SASSUOLO] ,Lukas Haraslin ,4.267,374
+516,[LAZIO] ,Djavan Anderson ,4.256,78
+517,[SPEZIA] ,Federico Mattiello ,4.179,40
+518,[ROMA] ,Antonio Mirante ,4.1,1212
+519,,Augustus Kargbo ,4.089,35
+520,[GENOA] ,Federico Marchetti ,4.029,350
+521,[FIORENTINA] ,Aleksandr Kokorin ,3.946,107
+522,[CAGLIARI] ,Gaston Pereiro ,3.94,330
+523,[MILAN] ,Mario Mandzukic ,3.823,235
+524,,Denis Vavro ,3.797,34
+525,[CAGLIARI] ,Alberto Cerri ,3.766,452
+526,[BOLOGNA] ,Omar Khailoti ,3.58,31
+527,[CROTONE] ,Luis Rojas ,3.552,128
+528,[PARMA] ,Joshua Zirkzee ,3.551,127
+529,,Bastos ,3.495,68
+530,[ATALANTA] ,Sam Lammers ,3.416,333
+531,[INTER] ,Ionut Radu ,3.411,140
+532,,Patrick Cutrone ,3.34,240
+533,,Giuseppe Mastinu ,3.285,44
+534,,Douglas Costa ,3.283,45
+535,[ATALANTA] ,Mattia Caldara ,3.273,116
+536,[JUVENTUS] ,Nicolo' Fagioli ,3.102,23
+537,[CAGLIARI] ,Matteo Tramoni ,2.895,88
+538,[PARMA] ,Mattia Sprocati ,2.887,25
+539,[SAMPDORIA] ,Kristoffer Askildsen ,2.818,114
+540,,Mattia De Sciglio ,2.801,25
+541,[GENOA] ,Steeve Eyango ,2.669,59
+542,,Luca Siligardi ,2.641,107
+543,,Leo Duarte ,2.367,23
+544,[ROMA] ,Javier Pastore ,2.348,92
+545,[PARMA] ,Drissa Camara ,2.247,18
+546,[NAPOLI] ,Stanislav Lobotka ,2.212,200
+547,,Vittorio Parigini ,2.193,76
+548,[INTER] ,Daniele Padelli ,2.193,45
+549,,Amad Diallo ,2.144,16
+550,,Ryder Matos ,2.096,17
+551,[HELLAS VERONA] ,Philip Yeboah Ankrah ,2.042,16
+552,[SASSUOLO] ,Nicolas Schiappacasse ,1.963,17
+553,,Tomislav Gomelt ,1.944,25
+554,[BOLOGNA] ,Musa Juwara ,1.93,61
+555,[UDINESE] ,Petar Micin ,1.881,16
+556,[CAGLIARI] ,Arturo Calabresi ,1.872,49
+557,[BOLOGNA] ,Edoardo Vergani ,1.868,15
+558,,Andrea Adorante ,1.818,13
+559,,Lorenzo Del Pinto ,1.785,13
+560,[SASSUOLO] ,Brian Oddei ,1.778,51
+561,[BOLOGNA] ,Mattia Pagliuca ,1.754,14
+562,[LAZIO] ,Raul Moro ,1.748,13
+563,,Vincenzo Millico ,1.728,31
+564,,Kiril Despodov ,1.676,15
+565,,Giovanni Crociata ,1.645,31
+566,[BOLOGNA] ,Federico Santander ,1.644,51
+567,[BENEVENTO] ,Siriky Sanogo ,1.596,15
+568,[BOLOGNA] ,Simone Rabbi ,1.564,49
+569,[NAPOLI] ,Antonio Cioffi ,1.551,11
+570,[HELLAS VERONA] ,Alessandro Berardi ,1.538,31
+571,,Justin Kluivert ,1.519,26
+572,[MILAN] ,Daniel Maldini ,1.451,48
+573,[ROMA] ,Nicola Zalewski ,1.392,11
+574,[ROMA] ,Edoardo Bove ,1.386,11
+575,[PARMA] ,Chaka Traore ,1.362,28
+576,[JUVENTUS] ,Felix Correia ,1.317,12
+577,[JUVENTUS] ,Carlo Pinsoglio ,1.312,23
+578,,Antonio Palumbo ,1.086,11
+579,[LAZIO] ,Marco Bertini ,1.083,7
+580,[LAZIO] ,Nicolo' Armini ,0.987,7
+581,,Federico Ricci ,0.984,7
+582,[JUVENTUS] ,Alessandro Di Pardo ,0.971,24
+583,[ATALANTA] ,Viktor Kovalenko ,0.859,6
+584,[BENEVENTO] ,Amadou Diambo ,0.781,7
+585,,Davide Angelo Ghislandi ,0.778,5
+586,[JUVENTUS] ,Giacomo Vrioni ,0.764,6
+587,[BOLOGNA] ,Kacper Urbanski ,0.707,5
+588,,Emmanuel Gyabuaa ,0.694,4
+589,[FIORENTINA] ,Cristobal Montiel ,0.656,9
+590,[BOLOGNA] ,Wisdom Amey ,0.652,5
+591,[SASSUOLO] ,Isaac Issiaka Karamoko ,0.651,4
+592,[BOLOGNA] ,Antonio Raimondo ,0.528,3
+593,[JUVENTUS] ,Radu Dragusin ,0.349,3
+594,[UDINESE] ,Manuel Gasparini ,0.134,2
